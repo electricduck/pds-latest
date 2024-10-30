@@ -1,7 +1,7 @@
 {
     "name": "pds-turbo",
     "private": true,
-    "version": "0.4.66-turbo24298",
+    "version": "0.4.67-turbo24304",
     "description": "Drop-in replacement for bluesky-social/pds that tracks the current version of @atproto/pds",
     "main": "index.js",
     "license": "MIT",
